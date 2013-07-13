@@ -17,6 +17,8 @@
 
 #pragma mark - HelloWorldLayer
 
+#define arc4random random
+
 // HelloWorldLayer implementation
 @implementation HelloWorldLayer
 
